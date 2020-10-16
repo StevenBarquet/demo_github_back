@@ -1,1 +1,1 @@
-App of Rick and Morty backend
+GitHub demo app Backend for YALO
